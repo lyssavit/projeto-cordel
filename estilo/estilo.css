@@ -94,12 +94,12 @@ section.imagem > p{
 }
 
 section#img1{
-    background:#5c5c5cf3 url(/imagens/terra.png) right top / cover no-repeat fixed;
+    background:#5c5c5cf3 url(../imagens/terra.png) right top / cover no-repeat fixed;
     
 }
 
 section#img2{
-    background: #5c5c5cf3 url(/imagens/background002.jpg) center center / cover no-repeat fixed;
+    background: #5c5c5cf3 url(../imagens/background002.jpg) center center / cover no-repeat fixed;
 }
 
 footer{
